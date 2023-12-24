@@ -1,0 +1,28 @@
+der Apfelsaft
+apple juice
+das Bier
+beer
+die Cola
+cola
+der Fruchtsaft
+fruit juice
+die heiße Schokolade
+hot chocolate
+der Kaffee
+coffee
+die Limonade
+lemonade
+die Milch
+milk
+das Mineralwasser
+mineral water
+der Orangensaft
+orange juice
+der Sprudel
+fizzy mineral water
+der Tee
+tea
+das Wasser
+water
+der Wein
+wine

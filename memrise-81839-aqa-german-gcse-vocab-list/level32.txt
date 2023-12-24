@@ -1,0 +1,60 @@
+bedeckt
+overcast
+es donnert und blitzt
+there is thunder and lightning
+es friert
+it is freezing
+frostig
+frosty
+heiß
+hot
+kalt
+cold
+kühl
+cool
+nass
+wet
+neblig
+foggy, misty
+es regnet
+it's raining
+es schneit
+its snowing
+sonnig
+sunny
+stürmisch
+stormy
+trocken
+dry
+windig
+windy
+wolkig
+cloudy
+der Frost
+frost
+das Gewitter
+thunder and lightning
+der Grad
+degree
+der Nebel
+the fog
+der Regen
+rain
+der Schauer
+shower (weather)
+der Schnee
+snow
+die Sonne
+sun
+der Sturm
+storm
+die Temperatur
+temperature
+das Wetter
+weather
+der Wetterbericht
+weather forecast/report
+die Wettervorhersage
+forecast
+der Wind
+wind

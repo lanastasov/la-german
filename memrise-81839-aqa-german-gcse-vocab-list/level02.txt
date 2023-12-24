@@ -1,0 +1,70 @@
+das Baby
+baby
+der Bruder
+brother
+der Cousin
+Cousin (m)
+die Dame
+lady
+das Einzelkind
+only child
+die Eltern
+parents
+der Erwachsene
+adult
+die Frau
+woman/wife/Mrs.
+das Fräulein
+miss
+die Geschwister
+siblings
+die Großeltern
+Grandparents
+die Großmutter
+Grandmother
+der Großvater
+Grandfather
+der Halbbruder
+Halfbrother
+die Halbschwester
+Halfsister
+der Herr
+man/Mr.
+der Junge
+boy
+das Kind
+child
+die Cousine
+Cousin (f)
+das Mädchen
+girl
+der Mann
+man/husband
+die Mutter/Mutti
+mother/mum
+die Oma
+grandma
+der Onkel
+uncle
+der Opa
+Grandad
+die Schwester
+sister
+Schwieger-
+in-law-
+Stief-
+step-
+der Sohn
+son
+die Tante
+aunt
+die Tochter
+daughter
+der Vater/Vati
+father/dad
+der Verwandter
+relative (m.)
+der Vetter
+cousin
+der Zwilling
+twin

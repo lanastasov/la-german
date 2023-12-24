@@ -1,0 +1,42 @@
+das Alter
+age
+die Anschrift
+Address
+der Beruf
+job
+die Familie
+family
+der Familienname
+Surname
+der Freund
+friend
+die Freundschaft
+friendship
+der Gast
+guest
+die Gastfreundschaft
+hospitality
+geboren
+born
+der Geburtstag
+birthday
+geschieden
+separated
+das Jahr
+year
+kennen
+to know (people, places)
+kennen lernen
+to get to know
+ledig
+single
+verheiratet
+married
+der Vorname
+first name
+vorstellen
+to introduce
+willkommen
+welcome
+wohnen
+to live (somewhere)

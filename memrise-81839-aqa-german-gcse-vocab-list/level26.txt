@@ -1,0 +1,54 @@
+die Apotheke
+pharmacy
+die Bäckerei
+bakery
+die Bank
+bank
+der Blumenladen
+florist
+die Buchhandlung
+bookstore
+die Drogerie
+toiletries and sundries store
+die Eisdiele
+ice cream parlour
+das Elektrogeschäft
+electrical store
+das Fischgeschäft
+fishmonger's
+die Fleischerei
+butchers shop
+der Friseursalon
+hairdresser's
+das Geschäft
+business
+das Juweliergeschäft
+jewellers
+das Kaufhaus
+the department store
+das Kleidungsgeschäft
+clothes shop
+die Konditorei
+cake shop, confectioner's
+der Laden
+shop
+das Lebensmittelgeschäft
+grocery store
+der Markt
+market
+die Metzgerei
+butcher shop
+der Obst- und Gemüseladen
+greengrocer
+die Parfümerie
+perfume shop
+das Schreibwarengeschäft
+stationery shop
+die Sparkasse
+savings bank
+der Supermarkt
+supermarket
+das Tabakwarengeschäft
+tobacconist
+der Zeitungskiosk
+newspaper kiosk

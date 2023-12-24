@@ -1,0 +1,56 @@
+die Ananas
+pineapple
+der Apfel
+apple
+die Apfelsine
+orange (fruit)
+die Aprikose
+apricot
+die Banane
+banana
+die Birne
+pear
+der Blumenkohl
+cauliflower
+die Bohne
+bean
+der Champignon
+mushroom
+die Erbse
+pea
+die Erdbeere
+strawberry
+das Gemüse
+vegetables
+die Gurke
+cucumber
+die Himbeere
+raspberry
+die Karotte
+carrot
+die Kartoffel
+potato
+die Kirsche
+cherry
+der Kohl
+cabbage
+die Limone
+lime
+das Obst
+fruit
+die Orange
+orange
+der Pfirsich
+peach
+der Pilz
+mushroom (fungus)
+der Salat
+salad
+die Traube
+grape
+die Tomate
+tomato
+die Zitrone
+lemon
+die Zwiebel
+onion

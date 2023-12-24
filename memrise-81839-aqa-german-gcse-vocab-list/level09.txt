@@ -1,0 +1,32 @@
+blau
+blue
+blond
+blonde
+braun
+brown
+bunt
+colourful
+dunkel
+dark
+die Farbe
+color
+gelb
+yellow
+grau
+grey
+grün
+green
+hell
+bright/light
+lila
+lilac/purple
+orange
+orange (colour)
+rosa
+pink
+rot
+red
+schwarz
+black
+weiß
+white

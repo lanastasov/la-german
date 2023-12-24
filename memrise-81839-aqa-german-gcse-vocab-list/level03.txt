@@ -1,0 +1,26 @@
+der Goldfisch
+goldfish
+der Hamster
+hamster
+das Haustier
+pet
+der Hund
+dog
+das Kaninchen
+rabbit
+die Katze
+cat
+die Maus
+mouse
+das Meerschweinchen
+guinea pig
+das Pferd
+horse
+die Schildkröte
+turtle
+das Tier
+animal
+der Vogel
+bird
+der Wellensittich
+the budgie

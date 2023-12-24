@@ -1,0 +1,42 @@
+die Anmeldung
+booking
+die Aula
+school hall
+die Bibliothek
+library
+der Chor
+choir
+der Direktor
+Headteacher
+die Direktorin
+Headmistress
+das Gebäude
+building
+der Hausmeister
+caretaker
+die Kantine
+canteen, dining hall
+das Klassenzimmer
+classroom
+das Labor
+science lab
+das Lehrerzimmer
+staff room
+das Orchester
+orchestra
+der Schulhof
+playground
+das Sekretariat
+school office, reception
+die Speise
+meal
+die Sporthalle
+sports arena
+das Sprachlabor
+language laboratory
+die Tafel
+board
+die Turnhalle
+gym
+der Umkleideraum
+changing room
