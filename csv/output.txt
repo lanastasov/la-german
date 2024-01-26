@@ -1,0 +1,1603 @@
+﻿"das Alter" | age | 01_LIFESTYLE:_General
+die Anschrift | Address | 01_LIFESTYLE:_General
+der Beruf | job | 01_LIFESTYLE:_General
+die Familie | family | 01_LIFESTYLE:_General
+der Familienname | Surname | 01_LIFESTYLE:_General
+der Freund | friend | 01_LIFESTYLE:_General
+die Freundschaft | friendship | 01_LIFESTYLE:_General
+der Gast | guest | 01_LIFESTYLE:_General
+die Gastfreundschaft | hospitality | 01_LIFESTYLE:_General
+geboren | born | 01_LIFESTYLE:_General
+der Geburtstag | birthday | 01_LIFESTYLE:_General
+geschieden | separated | 01_LIFESTYLE:_General
+das Jahr | year | 01_LIFESTYLE:_General
+kennen | to know (people, places) | 01_LIFESTYLE:_General
+kennen lernen | to get to know | 01_LIFESTYLE:_General
+ledig | single | 01_LIFESTYLE:_General
+verheiratet | married | 01_LIFESTYLE:_General
+der Vorname | first name | 01_LIFESTYLE:_General
+vorstellen | to introduce | 01_LIFESTYLE:_General
+willkommen | welcome | 01_LIFESTYLE:_General
+wohnen | to live (somewhere) | 01_LIFESTYLE:_General
+das Baby | baby | 02_People
+der Bruder | brother | 02_People
+der Cousin | Cousin (m) | 02_People
+die Dame | lady | 02_People
+das Einzelkind | only child | 02_People
+die Eltern | parents | 02_People
+der Erwachsene | adult | 02_People
+die Frau | woman/wife/Mrs. | 02_People
+das Fräulein | miss | 02_People
+die Geschwister | siblings | 02_People
+die Großeltern | Grandparents | 02_People
+die Großmutter | Grandmother | 02_People
+der Großvater | Grandfather | 02_People
+der Halbbruder | Halfbrother | 02_People
+die Halbschwester | Halfsister | 02_People
+der Herr | man/Mr. | 02_People
+der Junge | boy | 02_People
+das Kind | child | 02_People
+die Cousine | Cousin (f) | 02_People
+das Mädchen | girl | 02_People
+der Mann | man/husband | 02_People
+die Mutter/Mutti | mother/mum | 02_People
+die Oma | grandma | 02_People
+der Onkel | uncle | 02_People
+der Opa | Grandad | 02_People
+die Schwester | sister | 02_People
+Schwieger- | in-law- | 02_People
+Stief- | step- | 02_People
+der Sohn | son | 02_People
+die Tante | aunt | 02_People
+die Tochter | daughter | 02_People
+der Vater/Vati | father/dad | 02_People
+der Verwandter | relative (m.) | 02_People
+der Vetter | cousin | 02_People
+der Zwilling | twin | 02_People
+der Goldfisch | goldfish | 03_Pets
+der Hamster | hamster | 03_Pets
+das Haustier | pet | 03_Pets
+der Hund | dog | 03_Pets
+das Kaninchen | rabbit | 03_Pets
+die Katze | cat | 03_Pets
+die Maus | mouse | 03_Pets
+das Meerschweinchen | guinea pig | 03_Pets
+das Pferd | horse | 03_Pets
+die Schildkröte | turtle | 03_Pets
+das Tier | animal | 03_Pets
+der Vogel | bird | 03_Pets
+der Wellensittich | the budgie | 03_Pets
+das Aussehen | appearance | 04_Appearance
+die Augen | eyes | 04_Appearance
+der Bart | beard | 04_Appearance
+die Brille | glasses | 04_Appearance
+dick | thick/fat | 04_Appearance
+dünn | thin | 04_Appearance
+glatt | smooth | 04_Appearance
+die Glatze | bald head | 04_Appearance
+groß | grand, heavy, high | 04_Appearance
+gutaussehend | attractive, good-looking | 04_Appearance
+die Haare | hairs | 04_Appearance
+hässlich | ugly | 04_Appearance
+hübsch | pretty | 04_Appearance
+klein | small/short | 04_Appearance
+kurz | short | 04_Appearance
+lang | long | 04_Appearance
+lockig | curly | 04_Appearance
+mittelgroß | medium height | 04_Appearance
+schlank | slim | 04_Appearance
+der Schnurrbart | moustache | 04_Appearance
+schon | already | 04_Appearance
+wellig | wavy | 04_Appearance
+aktiv | active | 05_Personality
+angeberisch | boastful | 05_Personality
+böse | evil | 05_Personality
+doof | stupid, dumb | 05_Personality
+dumm | dumb | 05_Personality
+egoistisch | selfish | 05_Personality
+eifersüchtig | jealous | 05_Personality
+eingebildet | smug | 05_Personality
+ehrlich | honest | 05_Personality
+ernst | serious | 05_Personality
+faul | lazy | 05_Personality
+fleißig | hardworking | 05_Personality
+frech | cheeky, impudent | 05_Personality
+freundlich | friendly | 05_Personality
+geduldig | patient | 05_Personality
+gemein | mean | 05_Personality
+glücklich | happy | 05_Personality
+großzügig | generous | 05_Personality
+gut gelaunt | easy-going | 05_Personality
+hilfsbereit | helpful | 05_Personality
+höflich | polite | 05_Personality
+intelligent | intelligent | 05_Personality
+klug | clever | 05_Personality
+komisch | funny (1) | 05_Personality
+launisch | moody | 05_Personality
+laut | loud | 05_Personality
+leise | quiet | 05_Personality
+lieb | dear | 05_Personality
+lustig | funny (2) | 05_Personality
+mies | rotten | 05_Personality
+nett | nice | 05_Personality
+neugierig | curious | 05_Personality
+lebhaft | lively | 05_Personality
+schüchtern | shy | 05_Personality
+selbstbewusst | self-confident | 05_Personality
+sportlich | athletic | 05_Personality
+stolz | proud | 05_Personality
+streng | strict | 05_Personality
+sympathisch | likeable | 05_Personality
+unternehmungslustig | adventurous | 05_Personality
+Januar | January | 06_Months_and_Days_of_the_Week
+Februar | February | 06_Months_and_Days_of_the_Week
+März | March | 06_Months_and_Days_of_the_Week
+April | April | 06_Months_and_Days_of_the_Week
+Mai | May | 06_Months_and_Days_of_the_Week
+Juni | June | 06_Months_and_Days_of_the_Week
+Juli | July | 06_Months_and_Days_of_the_Week
+August | August | 06_Months_and_Days_of_the_Week
+September | September | 06_Months_and_Days_of_the_Week
+Oktober | October | 06_Months_and_Days_of_the_Week
+November | November | 06_Months_and_Days_of_the_Week
+Dezember | December | 06_Months_and_Days_of_the_Week
+Montag | Monday | 06_Months_and_Days_of_the_Week
+Dienstag | Tuesday | 06_Months_and_Days_of_the_Week
+Mittwoch | Wednesday | 06_Months_and_Days_of_the_Week
+Donnerstag | Thursday | 06_Months_and_Days_of_the_Week
+Freitag | Friday | 06_Months_and_Days_of_the_Week
+Samstag | Saturday | 06_Months_and_Days_of_the_Week
+Sonntag | Sunday | 06_Months_and_Days_of_the_Week
+der Frühling | spring | 07_Seasons
+der Sommer | summer | 07_Seasons
+der Herbst | autumn | 07_Seasons
+der Winter | Winter | 07_Seasons
+der Feiertag | public holiday | 08_General_Time
+die Ferien | holidays | 08_General_Time
+das Jahr | year | 08_General_Time
+die Jahreszeit | season | 08_General_Time
+der Monat | month | 08_General_Time
+das Neujahr | New Year | 08_General_Time
+das Ostern | Easter | 08_General_Time
+das Silvester | New Year's Eve | 08_General_Time
+der Tag | day | 08_General_Time
+das Weihnachten | Christmas | 08_General_Time
+die Woche | week | 08_General_Time
+das Wochenende | weekend | 08_General_Time
+blau | blue | 09_Colours
+blond | blonde | 09_Colours
+braun | brown | 09_Colours
+bunt | colourful | 09_Colours
+dunkel | dark | 09_Colours
+die Farbe | color | 09_Colours
+gelb | yellow | 09_Colours
+grau | grey | 09_Colours
+grün | green | 09_Colours
+hell | bright/light | 09_Colours
+lila | lilac/purple | 09_Colours
+orange | orange (colour) | 09_Colours
+rosa | pink | 09_Colours
+rot | red | 09_Colours
+schwarz | black | 09_Colours
+weiß | white | 09_Colours
+der Durst | thirst | 10_Food_and_Drink:_General
+durstig | thirsty | 10_Food_and_Drink:_General
+die Gabel | fork | 10_Food_and_Drink:_General
+das Getränk | drink | 10_Food_and_Drink:_General
+das Geschirr | china, dishes | 10_Food_and_Drink:_General
+das Glas | glass | 10_Food_and_Drink:_General
+die Hauptspeise | main course | 10_Food_and_Drink:_General
+der Hunger | hunger | 10_Food_and_Drink:_General
+hungrig | hungry | 10_Food_and_Drink:_General
+der Imbiss | snack | 10_Food_and_Drink:_General
+die Lebensmittel | groceries | 10_Food_and_Drink:_General
+der Löffel | spoon | 10_Food_and_Drink:_General
+das Menü | menu (1) | 10_Food_and_Drink:_General
+das Messer | knife | 10_Food_and_Drink:_General
+der Nachtisch | dessert; pudding | 10_Food_and_Drink:_General
+die Portion | portion | 10_Food_and_Drink:_General
+probieren | to try | 10_Food_and_Drink:_General
+das Rezept | recipe | 10_Food_and_Drink:_General
+die Selbstbedienung | self-service | 10_Food_and_Drink:_General
+die Speisekarte | menu (2) | 10_Food_and_Drink:_General
+das Tagesmenü | menu of the day | 10_Food_and_Drink:_General
+die Tasse | cup | 10_Food_and_Drink:_General
+der Teller | plate | 10_Food_and_Drink:_General
+die Vorspeise | appetizer; starter | 10_Food_and_Drink:_General
+die Ananas | pineapple | 11_Fruit_and_Vegetables
+der Apfel | apple | 11_Fruit_and_Vegetables
+die Apfelsine | orange (fruit) | 11_Fruit_and_Vegetables
+die Aprikose | apricot | 11_Fruit_and_Vegetables
+die Banane | banana | 11_Fruit_and_Vegetables
+die Birne | pear | 11_Fruit_and_Vegetables
+der Blumenkohl | cauliflower | 11_Fruit_and_Vegetables
+die Bohne | bean | 11_Fruit_and_Vegetables
+der Champignon | mushroom | 11_Fruit_and_Vegetables
+die Erbse | pea | 11_Fruit_and_Vegetables
+die Erdbeere | strawberry | 11_Fruit_and_Vegetables
+das Gemüse | vegetables | 11_Fruit_and_Vegetables
+die Gurke | cucumber | 11_Fruit_and_Vegetables
+die Himbeere | raspberry | 11_Fruit_and_Vegetables
+die Karotte | carrot | 11_Fruit_and_Vegetables
+die Kartoffel | potato | 11_Fruit_and_Vegetables
+die Kirsche | cherry | 11_Fruit_and_Vegetables
+der Kohl | cabbage | 11_Fruit_and_Vegetables
+die Limone | lime | 11_Fruit_and_Vegetables
+das Obst | fruit | 11_Fruit_and_Vegetables
+die Orange | orange | 11_Fruit_and_Vegetables
+der Pfirsich | peach | 11_Fruit_and_Vegetables
+der Pilz | mushroom (fungus) | 11_Fruit_and_Vegetables
+der Salat | salad | 11_Fruit_and_Vegetables
+die Traube | grape | 11_Fruit_and_Vegetables
+die Tomate | tomato | 11_Fruit_and_Vegetables
+die Zitrone | lemon | 11_Fruit_and_Vegetables
+die Zwiebel | onion | 11_Fruit_and_Vegetables
+der Apfelsaft | apple juice | 12_Drink
+das Bier | beer | 12_Drink
+die Cola | cola | 12_Drink
+der Fruchtsaft | fruit juice | 12_Drink
+die heiße Schokolade | hot chocolate | 12_Drink
+der Kaffee | coffee | 12_Drink
+die Limonade | lemonade | 12_Drink
+die Milch | milk | 12_Drink
+das Mineralwasser | mineral water | 12_Drink
+der Orangensaft | orange juice | 12_Drink
+der Sprudel | fizzy mineral water | 12_Drink
+der Tee | tea | 12_Drink
+das Wasser | water | 12_Drink
+der Wein | wine | 12_Drink
+der Aufschnitt | cold cuts | 13_General_Food
+das belegte Brötchen | filled roll | 13_General_Food
+das Bonbon | the candy, sweet | 13_General_Food
+das Butterbrot | sandwich | 13_General_Food
+der Bratensaft | gravy | 13_General_Food
+die Bratkartoffeln | fried potatoes | 13_General_Food
+die Bratwurst | bratwurst | 13_General_Food
+der Braten | a roast | 13_General_Food
+das Brot | bread | 13_General_Food
+das Brötchen | bread roll | 13_General_Food
+die Butter | butter | 13_General_Food
+die Currywurst | curried sausage | 13_General_Food
+das Ei | egg | 13_General_Food
+der Eintopf | stew | 13_General_Food
+das Eis | ice, ice cream | 13_General_Food
+der Essig | vinegar | 13_General_Food
+der Fisch | fish | 13_General_Food
+das Fleisch | meat | 13_General_Food
+die Forelle | trout | 13_General_Food
+die Haferflocken | rolled oats (porridge) | 13_General_Food
+das Hähnchen | chicken [gastr.] | 13_General_Food
+der Hamburger | the hamburger | 13_General_Food
+der Joghurt | yogurt | 13_General_Food
+das Kalbfleisch | veal | 13_General_Food
+der Käse | cheese | 13_General_Food
+der Keks | cookie | 13_General_Food
+der Knödel | dumpling | 13_General_Food
+der Kopfsalat | lettuce | 13_General_Food
+der Kuchen | cake | 13_General_Food
+der Lachs | salmon | 13_General_Food
+das Lamm | lamb | 13_General_Food
+die Marmelade | the jam | 13_General_Food
+die Meeresfrüchte | seafood | 13_General_Food
+die Möhre | carrot | 13_General_Food
+die Nudeln | pasta | 13_General_Food
+das Öl | oil | 13_General_Food
+das Omelett | omelet | 13_General_Food
+der Pfeffer | black pepper, chili/hot pepper | 13_General_Food
+die Pizza | pizza | 13_General_Food
+die Pommes (Frites) | chips | 13_General_Food
+die Praline | filled chocolate (in a box of chocolates) | 13_General_Food
+der Reis | rice | 13_General_Food
+das Rindfleisch | the beef | 13_General_Food
+die Sahne | cream | 13_General_Food
+das Salz | salt | 13_General_Food
+die Salzkartoffeln | boiled potatoes | 13_General_Food
+das Sauerkraut | sauerkraut | 13_General_Food
+der Schinken | ham | 13_General_Food
+die Schokolade | chocolate | 13_General_Food
+das Schweinefleisch | pork | 13_General_Food
+der Senf | mustard | 13_General_Food
+die Spaghetti | spaghetti | 13_General_Food
+die Spezialität | speciality | 13_General_Food
+das Spiegelei | fried egg | 13_General_Food
+das Steak | steak | 13_General_Food
+die Suppe | soup | 13_General_Food
+die Süssigkeit | candy | 13_General_Food
+der Toast | the toast | 13_General_Food
+die Torte | the cake | 13_General_Food
+die Vanille | the vanilla | 13_General_Food
+das Wiener Schnitzel | veal escalope | 13_General_Food
+die Wurst | sausage | 13_General_Food
+der Zucker | sugar | 13_General_Food
+abhängig | dependent | 14_Health
+die Ader | artery | 14_Health
+der Alkohol | alcohol | 14_Health
+der Alkoholismus | alcoholism | 14_Health
+die Allergie | allergy | 14_Health
+anfangen | to start; to begin; to commence | 14_Health
+Angst haben | to be frightened | 14_Health
+der Appetit | appetite | 14_Health
+atmen | to breathe | 14_Health
+aufgeben | to give up | 14_Health
+aufhören (mit) | to conclude | 14_Health
+aus Neugier | out of curiosity | 14_Health
+die Bewegung | movement, flow | 14_Health
+das Blut | blood | 14_Health
+brechen | to break | 14_Health
+der Cannabis | Cannabis | 14_Health
+die Droge | drug; medicine | 14_Health
+der Drogenhändler | drug dealer | 14_Health
+der Drogensüchtiger | drug addict | 14_Health
+einnehmen | to take (meds etc) | 14_Health
+ekelhaft | disgusting | 14_Health
+die Erfahrung | (noun) experience | 14_Health
+das Fett | fat (noun) | 14_Health
+(sich) fühlen | to feel | 14_Health
+gefährlich | dangerous | 14_Health
+das Gehirn | brain | 14_Health
+der Geruch | smell | 14_Health
+der Geschmack | the taste | 14_Health
+gesund | healthy | 14_Health
+die Gesundheit | health | 14_Health
+sich gewöhnen an | to become accustomed to | 14_Health
+die Gewohnheit | habit | 14_Health
+grillen | to broil; to barbecue | 14_Health
+halten | to keep | 14_Health
+das Herz | heart | 14_Health
+das Image | image | 14_Health
+der Imbiss | snack | 14_Health
+kaputt machen | to ruin | 14_Health
+die Kohlenhydrate | Carbohydrates | 14_Health
+der Körper | body | 14_Health
+körperlich | physical | 14_Health
+köstlich | delicious, delightful | 14_Health
+krank | sick, ill | 14_Health
+die Krankheit | illness | 14_Health
+der Krebs | crab, cancer | 14_Health
+sich kümmern um | to care for | 14_Health
+lebendig | alive, lively | 14_Health
+die Lebensmittel | groceries | 14_Health
+die Leber | liver | 14_Health
+lecker | yummy | 14_Health
+die Lunge | lung | 14_Health
+magersüchtig | anorexic | 14_Health
+die Mahlzeit | meal | 14_Health
+das Medikament | medicine | 14_Health
+die Milchprodukte | milk products | 14_Health
+müde | tired | 14_Health
+die Nahrung | nourishment | 14_Health
+nervös | nervous | 14_Health
+die Öffentlichkeit | the public | 14_Health
+probieren | to try | 14_Health
+rauchen | to smoke | 14_Health
+der Raucherhusten | smoker's cough | 14_Health
+das Rauschgift | the narcotic | 14_Health
+riechen | to smell | 14_Health
+das Risiko | risk | 14_Health
+die Ruhe | peace, calm | 14_Health
+schaden | to damage | 14_Health
+schädlich | damaging | 14_Health
+scharf | sharp, spicy | 14_Health
+schlimm | bad | 14_Health
+schmecken | to taste | 14_Health
+der Schmerz | pain | 14_Health
+schützen | to protect | 14_Health
+sniffen | to sniff | 14_Health
+die Sorge | worry | 14_Health
+die Spritze | syringe | 14_Health
+sterben | to die | 14_Health
+die Sucht | addiction | 14_Health
+süchtig | addicted | 14_Health
+die Abhängigkeit | dependency | 14_Health
+der Tabak | tobacco | 14_Health
+die Therapie | therapy | 14_Health
+tot | dead | 14_Health
+töten | to kill | 14_Health
+trainieren | to exercise, to practice, to work out | 14_Health
+die Überdosis | overdose | 14_Health
+vegetarisch | vegetarian (adj) | 14_Health
+die Vene | vein | 14_Health
+verboten | forbidden | 14_Health
+sich verletzen | to get hurt | 14_Health
+die Verletzung | injury | 14_Health
+vermeiden | to avoid | 14_Health
+verschwenden | to waste | 14_Health
+versuchen | to attempt | 14_Health
+verursachen | to cause | 14_Health
+die Werbung | advertisement | 14_Health
+die Zigarette | cigarette | 14_Health
+adoptiert | adopted | 15_Relationships_and_Choices
+ähnlich | similar | 15_Relationships_and_Choices
+allein | alone | 15_Relationships_and_Choices
+der Alleinerziehender | single parent | 15_Relationships_and_Choices
+das Altenheim | old peoples home | 15_Relationships_and_Choices
+das Alter | age | 15_Relationships_and_Choices
+arbeitslos | unemployed | 15_Relationships_and_Choices
+der Arm | arm | 15_Relationships_and_Choices
+die Armut | poverty | 15_Relationships_and_Choices
+auf die Nerven gehen | to get on sb nerves | 15_Relationships_and_Choices
+aufpassen | to keep an eye on, take care | 15_Relationships_and_Choices
+der Ausländer | foreigner | 15_Relationships_and_Choices
+aussetzen | to abandon, offer, stop | 15_Relationships_and_Choices
+bedürftig | in need | 15_Relationships_and_Choices
+benachteiligen | to disadvantage, discriminate | 15_Relationships_and_Choices
+berühmt | famous | 15_Relationships_and_Choices
+deprimiert | depressed | 15_Relationships_and_Choices
+die Diskriminierung | discrimination | 15_Relationships_and_Choices
+der Einfluss | influence | 15_Relationships_and_Choices
+die Eingliederung | incorporation | 15_Relationships_and_Choices
+einsam | lonely | 15_Relationships_and_Choices
+der Einwanderer | immigrant | 15_Relationships_and_Choices
+die ethnischen Probleme | the racial issues | 15_Relationships_and_Choices
+die Freundschaft | friendship | 15_Relationships_and_Choices
+die Gastfreundschaft | hospitality | 15_Relationships_and_Choices
+der Gastgeber | host, entertainer | 15_Relationships_and_Choices
+geboren | born | 15_Relationships_and_Choices
+gemein | mean | 15_Relationships_and_Choices
+geschieden | separated | 15_Relationships_and_Choices
+das Geschlecht | gender | 15_Relationships_and_Choices
+die Gesellschaft | society, company, business | 15_Relationships_and_Choices
+gestorben | dead | 15_Relationships_and_Choices
+die Gewalt | violence | 15_Relationships_and_Choices
+die Gleichheit | equality | 15_Relationships_and_Choices
+die Hautfarbe | skin colour | 15_Relationships_and_Choices
+herrschend | dominant | 15_Relationships_and_Choices
+die Hochzeit | wedding | 15_Relationships_and_Choices
+die Karriere | career | 15_Relationships_and_Choices
+die Kriminalität | criminality | 15_Relationships_and_Choices
+ledig | single | 15_Relationships_and_Choices
+multikulturell | multicultural | 15_Relationships_and_Choices
+die Not | need, hardship | 15_Relationships_and_Choices
+obdachlos | homeless | 15_Relationships_and_Choices
+die Rasse | race (ethnic), breed | 15_Relationships_and_Choices
+der Rassismus | racism | 15_Relationships_and_Choices
+schwatzen | to gossip | 15_Relationships_and_Choices
+selbstständig | independent | 15_Relationships_and_Choices
+der soziale Wohnungsbau | social housing, council housing | 15_Relationships_and_Choices
+spenden | to donate | 15_Relationships_and_Choices
+die Staatsangehörigkeit | nationality | 15_Relationships_and_Choices
+stehlen | to steal (+dative) | 15_Relationships_and_Choices
+die Stelle | place | 15_Relationships_and_Choices
+(sich) streiten | to quarrel | 15_Relationships_and_Choices
+treu | 1. faithful, 2. loyal | 15_Relationships_and_Choices
+ungerecht | unfair, unjust | 15_Relationships_and_Choices
+der Vandalismus | vandalism | 15_Relationships_and_Choices
+das Verbrechen | crime | 15_Relationships_and_Choices
+verheiratet | married | 15_Relationships_and_Choices
+verlobt | engaged | 15_Relationships_and_Choices
+der Verlobter | fiance | 15_Relationships_and_Choices
+die vorgefasste Meinung | preconceived idea | 15_Relationships_and_Choices
+das Vorurteil | prejudice | 15_Relationships_and_Choices
+die Wohltätigkeit | charity | 15_Relationships_and_Choices
+zufrieden | satisfied | 15_Relationships_and_Choices
+zusammenleben | to cohabit | 15_Relationships_and_Choices
+angeln | to fish | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+der Basketball | basketball | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+der Federball | badminton | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+der Fußball | football | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+die Gymnastik | gymnastics | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+das Hockey | hockey | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+joggen | to jog | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+kegeln | bowling | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+klettern | to climb | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+das Radfahren | cycling | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+reiten | to ride | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+Rollschuh laufen | to roller skate | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+das Rugby | Rugby | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+Schlittschuh laufen | to ice skate | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+schwimmen | to swim | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+segeln | to sail | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+das Skifahren | skiing (noun) | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+Sport treiben | to play sports | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+tanzen | to dance | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+das Tennis | tennis | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+das Tischtennis | ping pong | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+trainieren | to exercise, to practice, to work out | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+der Volleyball | volleyball | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+wandern | to walk, hike | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+windsurfen | windsurfing | 16_LEISURE:_Interests_and_Hobbies_-_Sports
+(sich) amüsieren | to enjoy (o.s) | 17_General_Interests
+anrufen | to call | 17_General_Interests
+der Ausflug | outing | 17_General_Interests
+ausgehen | to go out | 17_General_Interests
+begleiten | to accompany | 17_General_Interests
+besuchen | to visit | 17_General_Interests
+das Buch | book | 17_General_Interests
+der Computer | the computer | 17_General_Interests
+die Disko | disco | 17_General_Interests
+einkaufen | to shop | 17_General_Interests
+fernsehen | to watch tv | 17_General_Interests
+der Film | film | 17_General_Interests
+das Fitnesszentrum | fitness centre | 17_General_Interests
+fotografieren | to shoot, to take a photo/picture | 17_General_Interests
+die Freizeit | spare time | 17_General_Interests
+gefallen (+dat) | to please | 17_General_Interests
+gewinnen | to win | 17_General_Interests
+herumlaufen | to run/go around | 17_General_Interests
+hören | to hear | 17_General_Interests
+das Interesse | interest | 17_General_Interests
+die Karten | cards | 17_General_Interests
+das Kino | cinema | 17_General_Interests
+das Konzert | concert | 17_General_Interests
+lesen | to read | 17_General_Interests
+die Lust | pleasure | 17_General_Interests
+die Mannschaft | team | 17_General_Interests
+das Mitglied | member | 17_General_Interests
+die Musik | music | 17_General_Interests
+programmieren | IT, to programme | 17_General_Interests
+quatschen | to blab, to blather, to talk nonsense | 17_General_Interests
+der Roman | novel | 17_General_Interests
+sammeln | to collect | 17_General_Interests
+der Spaß | fun | 17_General_Interests
+spielen | to play | 17_General_Interests
+das Spiel | game | 17_General_Interests
+das Theaterstück | (theatrical) play | 17_General_Interests
+treffen | to meet | 17_General_Interests
+üben | to practise | 17_General_Interests
+(sich) unterhalten | to talk | 17_General_Interests
+das Unternehmen | company | 17_General_Interests
+der Verein | club | 17_General_Interests
+das Videospiel | video game | 17_General_Interests
+der Wettkampf | competition | 17_General_Interests
+die Zeitschrift | magazine | 17_General_Interests
+die Band | music band | 18_Instruments
+die Blockflöte | Recorder (mus) | 18_Instruments
+die Flöte | flute | 18_Instruments
+die Geige | violin | 18_Instruments
+die Gitarre | guitar | 18_Instruments
+das Instrument | instrument | 18_Instruments
+das Klavier | piano | 18_Instruments
+das Orchester | orchestra | 18_Instruments
+das Schlagzeug | drums | 18_Instruments
+die Trompete | Trumpet | 18_Instruments
+der Abenteuerfilm | adventure film | 19_TV/Film/Music
+der Actionfilm | Action film | 19_TV/Film/Music
+der CD-Spieler | CD player | 19_TV/Film/Music
+der Dokumentarfilm | documentary | 19_TV/Film/Music
+der Eintritt | admission | 19_TV/Film/Music
+der Film | film | 19_TV/Film/Music
+der Horrorfilm | horror film | 19_TV/Film/Music
+die Komödie | comedy | 19_TV/Film/Music
+der Krimi | crime film | 19_TV/Film/Music
+der Liebesfilm | love film | 19_TV/Film/Music
+das Lied | song | 19_TV/Film/Music
+die Nachrichten | news progamme | 19_TV/Film/Music
+der Sänger | singer | 19_TV/Film/Music
+der Schauspieler | actor | 19_TV/Film/Music
+der Science-Fiction-Film | Sci-fi film | 19_TV/Film/Music
+die Seifenoper | Soap Opera | 19_TV/Film/Music
+die Sendung | transmission, broadcast; consignment | 19_TV/Film/Music
+die Serie | series | 19_TV/Film/Music
+die Werbung | advertisement | 19_TV/Film/Music
+echt | genuine | 20_Opinions
+sehr | very | 20_Opinions
+total | totally | 20_Opinions
+wirklich | really | 20_Opinions
+nicht sehr | not very | 20_Opinions
+besonders | especially | 20_Opinions
+ein bisschen | a bit | 20_Opinions
+zu | to | 20_Opinions
+angenehm | pleasant | 20_Opinions
+anstrengend | tiring; exhausting | 20_Opinions
+ausgezeichnet | excellent | 20_Opinions
+bequem | comfortable | 20_Opinions
+berühmt | famous | 20_Opinions
+besser | better | 20_Opinions
+blöd | stupid | 20_Opinions
+einfach | simple | 20_Opinions
+fantastisch | fantastic | 20_Opinions
+frisch | fresh | 20_Opinions
+froh | glad | 20_Opinions
+furchtbar | terrible | 20_Opinions
+gefährlich | dangerous | 20_Opinions
+gut | good | 20_Opinions
+herrlich | magnificent; glorious; capital | 20_Opinions
+hervorragend | outstanding | 20_Opinions
+klasse | great, marvellous | 20_Opinions
+kompliziert | complicated | 20_Opinions
+langweilig | boring | 20_Opinions
+leicht | light, easy | 20_Opinions
+möglich | possible | 20_Opinions
+nützlich | useful | 20_Opinions
+nutzlos | useless | 20_Opinions
+praktisch | practical | 20_Opinions
+prima | very good | 20_Opinions
+schlecht | bad | 20_Opinions
+schlimm | bad | 20_Opinions
+schrecklich | horrible, frightful | 20_Opinions
+schwach | weak | 20_Opinions
+schwer | difficult, heavy | 20_Opinions
+schwierig | difficult | 20_Opinions
+der Spaß | fun | 20_Opinions
+spitze | first class, great | 20_Opinions
+toll | great | 20_Opinions
+typisch | typical | 20_Opinions
+wichtig | important | 20_Opinions
+witzig | funny, witty, comical, facetious | 20_Opinions
+wunderbar | wonderful | 20_Opinions
+unmöglich | impossible | 20_Opinions
+die Anzeige | announcement, advertisement, notice | 21_Media
+die Auswahl | choice | 21_Media
+der Bericht | report | 21_Media
+der Bildschirm | monitor | 21_Media
+der Camcorder | camcorder | 21_Media
+der Fernsehkanal | TV channel | 21_Media
+das Kabelfernsehen | cable television | 21_Media
+die Presse | press | 21_Media
+das Radio | radio | 21_Media
+die Schlagzeilen | headlines | 21_Media
+die Sendung | transmission, broadcast; consignment | 21_Media
+die Tageszeitung | Daily newspaper | 21_Media
+die Wochenzeitung | Weekly paper | 21_Media
+die Zeitschrift | magazine | 21_Media
+arbeiten | to work | 22_Pocket_Money
+ausgeben für | to spend on | 22_Pocket_Money
+bekommen | to receive | 22_Pocket_Money
+der Euro | euro | 22_Pocket_Money
+das Geld | money | 22_Pocket_Money
+das Geschäft | business | 22_Pocket_Money
+das Handy | cell phone | 22_Pocket_Money
+kaufen | to buy | 22_Pocket_Money
+kriegen | to get | 22_Pocket_Money
+der Laden | shop | 22_Pocket_Money
+der MP3-Spieler | MP3 player | 22_Pocket_Money
+das Pfund | pound (= sterling/ weight) | 22_Pocket_Money
+pleite | broke (having no money) | 22_Pocket_Money
+pro | per | 22_Pocket_Money
+reichen | to suffice | 22_Pocket_Money
+der Schmuck | jewellery | 22_Pocket_Money
+ein Schnäppchen machen | to pick up a bargain | 22_Pocket_Money
+auf etw sparen | to save up for sth | 22_Pocket_Money
+das Taschengeld | pocket money | 22_Pocket_Money
+verdienen | to earn | 22_Pocket_Money
+Zeitungen austragen | to deliver papers | 22_Pocket_Money
+die Abteilung | department | 23_Shopping
+anbieten | to offer | 23_Shopping
+das Angebot | offer, supply | 23_Shopping
+anprobieren | try on | 23_Shopping
+die Apotheke | pharmacy | 23_Shopping
+die Armbanduhr | wristwatch | 23_Shopping
+der Aufzug | lift, elevator | 23_Shopping
+ausgeben | to spend (money) | 23_Shopping
+ausverkauft | sold out | 23_Shopping
+die Auswahl | choice | 23_Shopping
+die Bäckerei | bakery | 23_Shopping
+der Becher | beaker, tumbler, cup | 23_Shopping
+billig | cheap | 23_Shopping
+die Brieftasche | wallet | 23_Shopping
+die Buchhandlung | bookstore | 23_Shopping
+das Buch | book | 23_Shopping
+die CD | the CD | 23_Shopping
+die Drogerie | toiletries and sundries store | 23_Shopping
+das Einkaufszentrum | shopping centre | 23_Shopping
+das Erdgeschoss | first floor | 23_Shopping
+die Flasche | bottle | 23_Shopping
+geöffnet | open (pp) | 23_Shopping
+das Geschäft | business | 23_Shopping
+das Geschenk | gift | 23_Shopping
+geschlossen | closed | 23_Shopping
+gratis | gratis, costless | 23_Shopping
+die Größe | size | 23_Shopping
+die Kamera | camera | 23_Shopping
+kaufen | to buy | 23_Shopping
+das Kaufhaus | the department store | 23_Shopping
+das Alter | age | 23_Shopping
+die Konditorei | cake shop, confectioner's | 23_Shopping
+der Korb | basket | 23_Shopping
+kostenlos | free of charge | 23_Shopping
+die Kreditkarte | credit card | 23_Shopping
+die Metzgerei | butcher shop | 23_Shopping
+die Mode | fashion | 23_Shopping
+offen | open, openly | 23_Shopping
+öffnen | to open | 23_Shopping
+die Packung | package | 23_Shopping
+das Parfüm | Perfume | 23_Shopping
+das Portemonnaie | purse | 23_Shopping
+die Pralinen | filled chocolates | 23_Shopping
+die Puppe | the doll | 23_Shopping
+der Rabatt | discount, rebate | 23_Shopping
+reduziert | reduced | 23_Shopping
+der Regenschirm | umbrella | 23_Shopping
+die Schachtel | cardboard box | 23_Shopping
+der Schmuck | jewellery | 23_Shopping
+die Schreibwaren | the writing materials (pl.) | 23_Shopping
+das Sonderangebot | special offer | 23_Shopping
+die Sonnenbrille | sunglasses | 23_Shopping
+der Stock | floor (of building), stick | 23_Shopping
+der Teddybär | the Teddy Bear | 23_Shopping
+teuer | expensive | 23_Shopping
+die Tüte | bag | 23_Shopping
+umtauschen | to exchange | 23_Shopping
+das Untergeschoss | basement | 23_Shopping
+wasserfest | waterproof | 23_Shopping
+der Anorak | winter coat | 24_Clothes
+der Anzug | the suit | 24_Clothes
+der Badeanzug | the swimming suit | 24_Clothes
+die Badehose | swimming trunks | 24_Clothes
+die Baumwolle | cotton | 24_Clothes
+die Bluse | blouse | 24_Clothes
+die Farbe | color | 24_Clothes
+gestreift | striped | 24_Clothes
+die Größe | size | 24_Clothes
+die Handschuhe | gloves | 24_Clothes
+das Hemd | shirt | 24_Clothes
+die Hose | trousers | 24_Clothes
+der Hut | hat | 24_Clothes
+die Jacke | jacket | 24_Clothes
+die Jeans | pair of jeans | 24_Clothes
+kariert | checked | 24_Clothes
+das Kleid | dress | 24_Clothes
+die Kleider | the clothes | 24_Clothes
+die Krawatte | tie | 24_Clothes
+aus Leder | made of leather | 24_Clothes
+der Mantel | coat | 24_Clothes
+die Mütze | wooly hat, cap | 24_Clothes
+aus Plastik | from plastic | 24_Clothes
+der Pullover | sweater | 24_Clothes
+der Regenmantel | raincoat | 24_Clothes
+der Rock | skirt | 24_Clothes
+die Sandalen | sandals | 24_Clothes
+der Schlafanzug | pyjamas | 24_Clothes
+der Mantel | the coat | 24_Clothes
+die Schuhe | shoes | 24_Clothes
+die Seide | silk | 24_Clothes
+die Shorts | shorts (clothing) | 24_Clothes
+die Socken | socks | 24_Clothes
+die Strumpfhose | the (pair of) tights | 24_Clothes
+das T-Shirt | t-shirt | 24_Clothes
+aus Wolle | from wool | 24_Clothes
+die Wolljacke | wool jacket | 24_Clothes
+anonym | anonymous | 25_Technology
+brennen | to burn | 25_Technology
+chatten | to chat | 25_Technology
+drucken | to print | 25_Technology
+die E-Mail | the e-mail | 25_Technology
+herunterladen | to download | 25_Technology
+hochladen | upload | 25_Technology
+die Internetseite | internet site | 25_Technology
+der Klingelton | ringtone | 25_Technology
+lehrreich | educational | 25_Technology
+mailen | to send (via e-mail) | 25_Technology
+mobben | to bully | 25_Technology
+recherchieren | to investigate, research | 25_Technology
+das Satellitenfernsehen | Satellite TV | 25_Technology
+schicken | to send | 25_Technology
+simsen | to send text messages | 25_Technology
+die SMS | text message | 25_Technology
+das soziale Netzwerk | social networking site | 25_Technology
+speichern | to save (for future use) | 25_Technology
+die Technologie | technology | 25_Technology
+die Webseite | website | 25_Technology
+die Apotheke | pharmacy | 26_Shops
+die Bäckerei | bakery | 26_Shops
+die Bank | bank | 26_Shops
+der Blumenladen | florist | 26_Shops
+die Buchhandlung | bookstore | 26_Shops
+die Drogerie | toiletries and sundries store | 26_Shops
+die Eisdiele | ice cream      parlour | 26_Shops
+das Elektrogeschäft | electrical store | 26_Shops
+das Fischgeschäft | fishmonger's | 26_Shops
+die Fleischerei | butchers shop | 26_Shops
+der Friseursalon | hairdresser's | 26_Shops
+das Geschäft | business | 26_Shops
+das Juweliergeschäft | jewellers | 26_Shops
+das Kaufhaus | the department store | 26_Shops
+das Kleidungsgeschäft | clothes shop | 26_Shops
+die Konditorei | cake shop, confectioner's | 26_Shops
+der Laden | shop | 26_Shops
+das Lebensmittelgeschäft | grocery store | 26_Shops
+der Markt | market | 26_Shops
+die Metzgerei | butcher shop | 26_Shops
+der Obst- und Gemüseladen | greengrocer | 26_Shops
+die Parfümerie | perfume shop | 26_Shops
+das Schreibwarengeschäft | stationery shop | 26_Shops
+die Sparkasse | savings bank | 26_Shops
+der Supermarkt | supermarket | 26_Shops
+das Tabakwarengeschäft | tobacconist | 26_Shops
+der Zeitungskiosk | newspaper kiosk | 26_Shops
+am Abend | In the/of an evening | 27_Time_Phrases
+ab und zu | now and then, from time to time | 27_Time_Phrases
+bald | soon | 27_Time_Phrases
+danach | afterwards | 27_Time_Phrases
+dann | then | 27_Time_Phrases
+endlich | finally | 27_Time_Phrases
+erst | first | 27_Time_Phrases
+erstens | firstly | 27_Time_Phrases
+gestern | yesterday | 27_Time_Phrases
+gewöhnlich | usual, usually | 27_Time_Phrases
+heute | today | 27_Time_Phrases
+heute Abend | tonight/this     evening | 27_Time_Phrases
+immer | always | 27_Time_Phrases
+jeden Tag | every day | 27_Time_Phrases
+manchmal | sometimes | 27_Time_Phrases
+morgen | tomorrow | 27_Time_Phrases
+morgen Abend | tomorrow evening | 27_Time_Phrases
+morgen früh | tomorrow   morning | 27_Time_Phrases
+morgens | in the morning | 27_Time_Phrases
+der Nachmittag | afternoon | 27_Time_Phrases
+die Nacht | night | 27_Time_Phrases
+nie | never | 27_Time_Phrases
+nochmal | again | 27_Time_Phrases
+noch einmal | once again | 27_Time_Phrases
+noch nicht | not yet | 27_Time_Phrases
+normalerweise | normally | 27_Time_Phrases
+nur | only | 27_Time_Phrases
+oft | often | 27_Time_Phrases
+spät | late | 27_Time_Phrases
+später | later | 27_Time_Phrases
+täglich | daily | 27_Time_Phrases
+übermorgen | day after tomorrow | 27_Time_Phrases
+üblich | usual, normal | 27_Time_Phrases
+vorgestern | day before yesterday | 27_Time_Phrases
+während | during, while | 27_Time_Phrases
+wieder | again | 27_Time_Phrases
+am Montag | on Monday | 27_Time_Phrases
+Montags | on Mondays, every Monday | 27_Time_Phrases
+Afrika | Africa | 28_Countries_and_Continents
+Amerika | America | 28_Countries_and_Continents
+das Ausland | abroad | 28_Countries_and_Continents
+ins Ausland fahren | to go abroad | 28_Countries_and_Continents
+Australien | Australia | 28_Countries_and_Continents
+Belgien | Belgium | 28_Countries_and_Continents
+Deutschland | Germany | 28_Countries_and_Continents
+England | England | 28_Countries_and_Continents
+Europa | Europe | 28_Countries_and_Continents
+Frankreich | France | 28_Countries_and_Continents
+Griechenland | Greece | 28_Countries_and_Continents
+Großbritannien | Great Britain | 28_Countries_and_Continents
+Holland | Holland | 28_Countries_and_Continents
+Irland | Ireland | 28_Countries_and_Continents
+Italien | Italy | 28_Countries_and_Continents
+Österreich | Austria | 28_Countries_and_Continents
+Portugal | Portugal | 28_Countries_and_Continents
+Schottland | Scotland | 28_Countries_and_Continents
+die Schweiz | Switzerland | 28_Countries_and_Continents
+Spanien | Spain | 28_Countries_and_Continents
+die Türkei | Turkey | 28_Countries_and_Continents
+die USA | USA | 28_Countries_and_Continents
+die Vereinigten Staaten | United States | 28_Countries_and_Continents
+Wales | Wales | 28_Countries_and_Continents
+die Alpen | the Alps | 28_Countries_and_Continents
+der Kanal | the Channel | 28_Countries_and_Continents
+Köln | Cologne | 28_Countries_and_Continents
+die Küste | coast | 28_Countries_and_Continents
+die Landschaft | countryside, landscape | 28_Countries_and_Continents
+das Meer | sea | 28_Countries_and_Continents
+das Mittelmeer | the Mediterranean | 28_Countries_and_Continents
+München | Munich | 28_Countries_and_Continents
+die Nordsee | North Sea | 28_Countries_and_Continents
+die Ostsee | Baltic Sea | 28_Countries_and_Continents
+der Rhein | the Rhine | 28_Countries_and_Continents
+der See | lake | 28_Countries_and_Continents
+die See | sea | 28_Countries_and_Continents
+der Strand | beach | 28_Countries_and_Continents
+Wien | Vienna | 28_Countries_and_Continents
+die Alpen | the Alps | 29_Holidays:_General
+die Ansichtskarte | (picture) postcard | 29_Holidays:_General
+der Aufenthalt | stay, wait (noun) | 29_Holidays:_General
+der Ausflug | outing | 29_Holidays:_General
+baden | to bathe | 29_Holidays:_General
+das Bargeld | cash | 29_Holidays:_General
+Bedienung! | Waiter! | 29_Holidays:_General
+berühmt | famous | 29_Holidays:_General
+besichtigen | to visit, to inspect | 29_Holidays:_General
+bestimmt | definitely | 29_Holidays:_General
+bleiben | to stay | 29_Holidays:_General
+bestellen | to order | 29_Holidays:_General
+bezahlen | to pay | 29_Holidays:_General
+die Bootsfahrt | boat trip | 29_Holidays:_General
+die Broschüre | brochure | 29_Holidays:_General
+dauern | to last | 29_Holidays:_General
+entscheiden | to decide | 29_Holidays:_General
+das Erlebnis | experience | 29_Holidays:_General
+fahren | to drive | 29_Holidays:_General
+die Ferien | holidays | 29_Holidays:_General
+fliegen | to fly | 29_Holidays:_General
+der Fremder | foreigner/ stranger | 29_Holidays:_General
+führen | to lead/guide | 29_Holidays:_General
+die Galerie | gallery | 29_Holidays:_General
+herumreisen | to travel around | 29_Holidays:_General
+die Insel | island | 29_Holidays:_General
+kulturell | cultural | 29_Holidays:_General
+das Personal | staff | 29_Holidays:_General
+reißen | to tear | 29_Holidays:_General
+die Rundfahrt | tour | 29_Holidays:_General
+sehenswert | worth seeing | 29_Holidays:_General
+die Sehenswürdigkeiten | attractions | 29_Holidays:_General
+die Sitzung | session, meeting | 29_Holidays:_General
+der Stadtbummel | stroll through town | 29_Holidays:_General
+die Stadtrundfahrt | city tour | 29_Holidays:_General
+der Stadtteil | part of town | 29_Holidays:_General
+surfen | to surf | 29_Holidays:_General
+der Tourismus | tourism | 29_Holidays:_General
+der Tourist | tourist | 29_Holidays:_General
+überall | everywhere | 29_Holidays:_General
+unabhängig | independent | 29_Holidays:_General
+der Urlaub | vacation | 29_Holidays:_General
+verbessern | to improve | 29_Holidays:_General
+verbringen | to spend (time) | 29_Holidays:_General
+vermeiden | to avoid | 29_Holidays:_General
+woanders | somewhere else | 29_Holidays:_General
+der Zweck | purpose | 29_Holidays:_General
+abfahren | to leave, depart | 30_Travelling
+die Abfahrt | departure | 30_Travelling
+ankommen | to arrive | 30_Travelling
+die Ankunft | arrival | 30_Travelling
+die Ausfahrt | exit (road) | 30_Travelling
+die Auskunft | information | 30_Travelling
+das Auto | car | 30_Travelling
+die Autobahn | motorway | 30_Travelling
+das Boot | boat | 30_Travelling
+der Bus | bus | 30_Travelling
+die Einbahnstraße | one-way street | 30_Travelling
+die Einfahrt | driveway | 30_Travelling
+die Fähre | ferry | 30_Travelling
+das Fahrrad | bicycle | 30_Travelling
+der Flug | flight | 30_Travelling
+der Flughafen | airport | 30_Travelling
+das Flugzeug | airplane | 30_Travelling
+das Gepäck | luggage | 30_Travelling
+die Klassenfahrt | educational trip (pl. +en) | 30_Travelling
+der Leihwagen | the rental car | 30_Travelling
+die Linie | line | 30_Travelling
+mieten | to rent | 30_Travelling
+das Motorrad | Motorbike | 30_Travelling
+der Pass | passport | 30_Travelling
+die Reise | trip | 30_Travelling
+das Reisebüro | travel agent (office) | 30_Travelling
+der Reisebus | coach | 30_Travelling
+das Schiff | ship | 30_Travelling
+stören | to disturb | 30_Travelling
+die Straßenbahn | the tram | 30_Travelling
+die U-Bahn | subway; underground train system | 30_Travelling
+die Überfahrt | crossing | 30_Travelling
+der Zoll | duty, tariff | 30_Travelling
+der Zug | train | 30_Travelling
+der Zuschlag | surcharge | 30_Travelling
+aussteigen | to get out | 31_Public_Transport
+der Automat | vending machine | 31_Public_Transport
+der Bahnsteig | platform | 31_Public_Transport
+DB/Deutsche Bundesbahn | German Railway | 31_Public_Transport
+einfach | simple | 31_Public_Transport
+einsteigen | to get on board | 31_Public_Transport
+die Fahrkarte | ticket | 31_Public_Transport
+der Fahrkartenschalter | ticket office | 31_Public_Transport
+der Fahrschein | ticket (train) | 31_Public_Transport
+die Fahrt | ride | 31_Public_Transport
+der Flug | flight | 31_Public_Transport
+der Flughafen | airport | 31_Public_Transport
+der Führerschein | driving license | 31_Public_Transport
+das Gepäck | luggage | 31_Public_Transport
+die Gepäckausgabe | luggage reclaim | 31_Public_Transport
+das Gleis | line, track, platform | 31_Public_Transport
+der Hafen | port | 31_Public_Transport
+die Haltestelle | the stop | 31_Public_Transport
+hin und zurück | return (there and back) | 31_Public_Transport
+der IC-Zug | inter-city train | 31_Public_Transport
+1 Klasse | 1st Class | 31_Public_Transport
+2 Klasse | 2nd Class | 31_Public_Transport
+die Mehrfahrtenkarte | multi-journey ticket | 31_Public_Transport
+der Nichtraucher | non-smoker | 31_Public_Transport
+der Platz | square | 31_Public_Transport
+das Postamt | post office | 31_Public_Transport
+die Rückfahrkarte | return ticket | 31_Public_Transport
+die Verbindung | connection | 31_Public_Transport
+die Verspätung | delay | 31_Public_Transport
+bedeckt | overcast | 32_Weather
+es donnert und blitzt | there is thunder and lightning | 32_Weather
+es friert | it is freezing | 32_Weather
+frostig | frosty | 32_Weather
+heiß | hot | 32_Weather
+kalt | cold | 32_Weather
+kühl | cool | 32_Weather
+nass | wet | 32_Weather
+neblig | foggy, misty | 32_Weather
+es regnet | it's raining | 32_Weather
+es schneit | its snowing | 32_Weather
+sonnig | sunny | 32_Weather
+stürmisch | stormy | 32_Weather
+trocken | dry | 32_Weather
+windig | windy | 32_Weather
+wolkig | cloudy | 32_Weather
+der Frost | frost | 32_Weather
+das Gewitter | thunder and lightning | 32_Weather
+der Grad | degree | 32_Weather
+der Nebel | the fog | 32_Weather
+der Regen | rain | 32_Weather
+der Schauer | shower (weather) | 32_Weather
+der Schnee | snow | 32_Weather
+die Sonne | sun | 32_Weather
+der Sturm | storm | 32_Weather
+die Temperatur | temperature | 32_Weather
+das Wetter | weather | 32_Weather
+der Wetterbericht | weather forecast/report | 32_Weather
+die Wettervorhersage | forecast | 32_Weather
+der Wind | wind | 32_Weather
+der Aufzug | lift, elevator | 33_Accomodation
+das Bad | bath | 33_Accomodation
+das Badetuch | bath towel | 33_Accomodation
+der Balkon | balcony | 33_Accomodation
+sich beklagen | to complain | 33_Accomodation
+sich beschweren | to complain (about something) | 33_Accomodation
+bestätigen | to confirm, to certify | 33_Accomodation
+das Bettzeug | bedding | 33_Accomodation
+die Decke | cover | 33_Accomodation
+das Doppelzimmer | double room | 33_Accomodation
+das Einzelzimmer | the single room | 33_Accomodation
+der Empfang | reception, recipience, arrival | 33_Accomodation
+der Fahrstuhl | elevator | 33_Accomodation
+das Familienzimmer | Family room | 33_Accomodation
+frei | free | 33_Accomodation
+der Gang | corridor | 33_Accomodation
+das Gasthaus | inn | 33_Accomodation
+die Halbpension | half-board | 33_Accomodation
+das Handtuch | towel | 33_Accomodation
+das Hotel | hotel | 33_Accomodation
+inbegriffen | included | 33_Accomodation
+inklusive | inclusive | 33_Accomodation
+kaputt | broken | 33_Accomodation
+das Kopfkissen | pillow | 33_Accomodation
+die Pension | retirement | 33_Accomodation
+die Rechnung | bill | 33_Accomodation
+reservieren | to reserve | 33_Accomodation
+die Reservierung | reservation | 33_Accomodation
+das Restaurant | restaurant | 33_Accomodation
+der Schlüssel | key | 33_Accomodation
+schmutzig | dirty | 33_Accomodation
+die Seife | soap | 33_Accomodation
+der Speisesaal | dining hall | 33_Accomodation
+teuer | expensive | 33_Accomodation
+übernachten | to stay over night | 33_Accomodation
+die Übernachtung | Overnight stay | 33_Accomodation
+die Unterkunft | accommodation | 33_Accomodation
+die Vollpension | Full Board | 33_Accomodation
+das WC | toilet/bathroom, water closet | 33_Accomodation
+die Zahnbürste | toothbrush | 33_Accomodation
+die Zahnpasta | tooth paste | 33_Accomodation
+das Zimmer | room | 33_Accomodation
+ausleihen | to borrow | 34_Campsite/Youth_Hostel
+der Aufenthaltsraum | Recreation room | 34_Campsite/Youth_Hostel
+der Ausweis | ID card | 34_Campsite/Youth_Hostel
+ausfüllen | to fill in, to fill out, to complete | 34_Campsite/Youth_Hostel
+besetzt | 1. occupied, 2. decorated, 3. engaged | 34_Campsite/Youth_Hostel
+die Bettwäsche | bed linen | 34_Campsite/Youth_Hostel
+das Campinggas | camping gas | 34_Campsite/Youth_Hostel
+der Campingkocher | camping stove | 34_Campsite/Youth_Hostel
+der Campingplatz | camping site | 34_Campsite/Youth_Hostel
+erlaubt | allowed | 34_Campsite/Youth_Hostel
+die Jugendherberge | youth hostel | 34_Campsite/Youth_Hostel
+mieten | to rent | 34_Campsite/Youth_Hostel
+der Platz | square | 34_Campsite/Youth_Hostel
+der Schlafraum | Dormitory | 34_Campsite/Youth_Hostel
+der Schlafsack | sleeping bag | 34_Campsite/Youth_Hostel
+der Strom | electricity, current, stream | 34_Campsite/Youth_Hostel
+unterschreiben | to sign | 34_Campsite/Youth_Hostel
+verboten | forbidden | 34_Campsite/Youth_Hostel
+der Wohnwagen | Caravan | 34_Campsite/Youth_Hostel
+das Zelt | tent | 34_Campsite/Youth_Hostel
+zelten | to camp | 34_Campsite/Youth_Hostel
+in der Nähe von | close to, near | 35_HOME_AND_ENVIRONMENT:_General
+auf dem Land | in the countryside | 35_HOME_AND_ENVIRONMENT:_General
+an der Küste | at the coast | 35_HOME_AND_ENVIRONMENT:_General
+am Meer | by the sea | 35_HOME_AND_ENVIRONMENT:_General
+an der See | by the sea | 35_HOME_AND_ENVIRONMENT:_General
+in der Stadtmitte | in the town centre | 35_HOME_AND_ENVIRONMENT:_General
+nicht weit von | not far from | 35_HOME_AND_ENVIRONMENT:_General
+die Aussicht | prospect, view | 35_HOME_AND_ENVIRONMENT:_General
+bieten | to offer | 35_HOME_AND_ENVIRONMENT:_General
+das Dorf | village | 35_HOME_AND_ENVIRONMENT:_General
+der Einwohner | resident | 35_HOME_AND_ENVIRONMENT:_General
+empfehlen | to recommend | 35_HOME_AND_ENVIRONMENT:_General
+entdecken | to discover | 35_HOME_AND_ENVIRONMENT:_General
+die Freizeitmöglichkeiten | leisure opportunities | 35_HOME_AND_ENVIRONMENT:_General
+die Gegend | area | 35_HOME_AND_ENVIRONMENT:_General
+die Großstadt | city | 35_HOME_AND_ENVIRONMENT:_General
+historisch | historical | 35_HOME_AND_ENVIRONMENT:_General
+die Industrie | industry | 35_HOME_AND_ENVIRONMENT:_General
+industriell | industrial | 35_HOME_AND_ENVIRONMENT:_General
+die Landschaft | countryside, landscape | 35_HOME_AND_ENVIRONMENT:_General
+liegen | to lie (down) | 35_HOME_AND_ENVIRONMENT:_General
+losgehen | to get going | 35_HOME_AND_ENVIRONMENT:_General
+die Menge | quantity | 35_HOME_AND_ENVIRONMENT:_General
+modern | fashionable, modern | 35_HOME_AND_ENVIRONMENT:_General
+möglich | possible | 35_HOME_AND_ENVIRONMENT:_General
+der Nachteil | disadvantage | 35_HOME_AND_ENVIRONMENT:_General
+ruhig | quiet, peaceful | 35_HOME_AND_ENVIRONMENT:_General
+die Stadt | town or city | 35_HOME_AND_ENVIRONMENT:_General
+am Stadtrand | on the edge of town | 35_HOME_AND_ENVIRONMENT:_General
+sauber | clean | 35_HOME_AND_ENVIRONMENT:_General
+schmutzig | dirty | 35_HOME_AND_ENVIRONMENT:_General
+der Verkehr | 1. traffic, 2. contact, intercourse | 35_HOME_AND_ENVIRONMENT:_General
+im Vorort | in the suburb | 35_HOME_AND_ENVIRONMENT:_General
+der Vorteil | benefit | 35_HOME_AND_ENVIRONMENT:_General
+80km entfernt | 80km away | 35_HOME_AND_ENVIRONMENT:_General
+der Bahnhof | (railway) station | 36_Places_in_Local_Area
+die Berge | mountains | 36_Places_in_Local_Area
+die Bibliothek | library | 36_Places_in_Local_Area
+die Brücke | bridge | 36_Places_in_Local_Area
+der Brunnen | well; fountain | 36_Places_in_Local_Area
+die Burg | fortified castle | 36_Places_in_Local_Area
+der Bürgersteig | sidewalk | 36_Places_in_Local_Area
+der Busbahnhof | bus station | 36_Places_in_Local_Area
+das Denkmal | monument | 36_Places_in_Local_Area
+der Dom | cathedral | 36_Places_in_Local_Area
+das Einkaufszentrum | shopping centre | 36_Places_in_Local_Area
+das Feld | field | 36_Places_in_Local_Area
+der Fluss | river | 36_Places_in_Local_Area
+das Freibad | outdoor swimming pool | 36_Places_in_Local_Area
+die Fußgängerzone | pedestrian zone | 36_Places_in_Local_Area
+das Gebäude | building | 36_Places_in_Local_Area
+das Geschäft | business | 36_Places_in_Local_Area
+der Hafen | port | 36_Places_in_Local_Area
+das Hallenbad | indoor swimming pool | 36_Places_in_Local_Area
+der Hauptbahnhof | central station | 36_Places_in_Local_Area
+der Hügel | hill | 36_Places_in_Local_Area
+der Jugendklub | youth club | 36_Places_in_Local_Area
+die Kirche | church | 36_Places_in_Local_Area
+die Kneipe | pub, bar | 36_Places_in_Local_Area
+das Krankenhaus | hospital | 36_Places_in_Local_Area
+der Laden | shop | 36_Places_in_Local_Area
+der Markt | market | 36_Places_in_Local_Area
+der Marktplatz | market place | 36_Places_in_Local_Area
+das Meer | sea | 36_Places_in_Local_Area
+das Museum | museum | 36_Places_in_Local_Area
+der Park | park | 36_Places_in_Local_Area
+der Parkplatz | parking area | 36_Places_in_Local_Area
+der Platz | square | 36_Places_in_Local_Area
+das Rathaus | town hall | 36_Places_in_Local_Area
+das Schloss | castle, lock | 36_Places_in_Local_Area
+die Schule | school | 36_Places_in_Local_Area
+das Schwimmbad | swimming pool | 36_Places_in_Local_Area
+der See | lake | 36_Places_in_Local_Area
+der Spielplatz | playground | 36_Places_in_Local_Area
+das Stadion | stadium | 36_Places_in_Local_Area
+die Stadt | town or city | 36_Places_in_Local_Area
+die Tankstelle | gas station | 36_Places_in_Local_Area
+das Theater | theater | 36_Places_in_Local_Area
+der Turm | tower | 36_Places_in_Local_Area
+der Wald | forest | 36_Places_in_Local_Area
+der Zoo | Zoo | 36_Places_in_Local_Area
+der Bauernhof | farm | 37_House
+der Bungalow | bungalow | 37_House
+das Doppelhaus | semi-detached house | 37_House
+das Einfamilienhaus | single-family house | 37_House
+das Haus | house | 37_House
+die Hecke | hedge, thicket | 37_House
+der Nachbar | neighbour | 37_House
+das Nachbarhaus | house next door | 37_House
+das Reihenhaus | townhouse, terraced house | 37_House
+im ersten Stock | on the 2nd floor | 37_House
+umziehen | to move (to another house), to relocate | 37_House
+wählen | to choose | 37_House
+der Wohnblock | the block of buildings | 37_House
+die Wohnung | apartment, flat | 37_House
+das Zweifamilienhaus | house containing two flats | 37_House
+der Abstellraum | storage | 38_Rooms
+das Arbeitszimmer | office, work room | 38_Rooms
+aussehen | to look (like) | 38_Rooms
+das Badezimmer | bathroom | 38_Rooms
+der Dachboden | loft | 38_Rooms
+die Dusche | shower | 38_Rooms
+das Erdgeschoss | first floor | 38_Rooms
+das Esszimmer | diningroom | 38_Rooms
+die Farbe | color | 38_Rooms
+der Flur | hallway | 38_Rooms
+die Garage | garage | 38_Rooms
+der Garten | the garden / the yard | 38_Rooms
+die Gartenbenutzung | use of a garden | 38_Rooms
+die Grünanlage | green space | 38_Rooms
+herausfinden | to find out | 38_Rooms
+der Platz | square | 38_Rooms
+das Schlafzimmer | bedroom | 38_Rooms
+die Terrasse | terrace | 38_Rooms
+die Toilette | toilet | 38_Rooms
+die Treppe | staircase | 38_Rooms
+die Waschküche | laundry room | 38_Rooms
+das Wohnzimmer | living room | 38_Rooms
+das Zimmer | room | 38_Rooms
+die Badewanne | bathtub | 39_Indoors
+der Baum | tree | 39_Indoors
+das Bett | bed | 39_Indoors
+die Blume | the flower | 39_Indoors
+der DVD-Spieler | DVD player | 39_Indoors
+die Essecke | the eating area | 39_Indoors
+das Etagenbett | bunk bed | 39_Indoors
+das Fenster | window | 39_Indoors
+der Fernseher | television | 39_Indoors
+der Herd | stove | 39_Indoors
+der Kleiderschrank | wardrobe | 39_Indoors
+die Klimaanlage | air conditioning | 39_Indoors
+die Kommode | dresser | 39_Indoors
+der Kühlschrank | refrigerator | 39_Indoors
+die Lampe | lamp | 39_Indoors
+das Leder | leather | 39_Indoors
+die Mauer | wall | 39_Indoors
+die Mikrowelle | microwave | 39_Indoors
+das Möbel | (piece of) furniture | 39_Indoors
+die Pflanze | plant | 39_Indoors
+das Poster | poster | 39_Indoors
+das Radio | radio | 39_Indoors
+der Rasen | lawn | 39_Indoors
+das Regal | shelf | 39_Indoors
+die Schublade | drawer | 39_Indoors
+der Sessel | armchair | 39_Indoors
+das Sofa | sofa | 39_Indoors
+der Spiegel | mirror | 39_Indoors
+die Spülmaschine | dishwasher | 39_Indoors
+die Stereoanlage | the stereo | 39_Indoors
+der Stuhl | chair | 39_Indoors
+das Telefon | phone | 39_Indoors
+der Teppich | carpet | 39_Indoors
+der Tisch | table | 39_Indoors
+die Tür | door | 39_Indoors
+das Videogerät | video machine | 39_Indoors
+die Vorhänge | drapes | 39_Indoors
+die Wand | the wall | 39_Indoors
+die Waschmaschine | washing machine | 39_Indoors
+der Wecker | alarm | 39_Indoors
+die Zentralheizung | central heating | 39_Indoors
+abwechslungsreich | varied | 40_Descriptions
+altmodisch | old-fashioned | 40_Descriptions
+amüsant | amusing | 40_Descriptions
+bequem | comfortable | 40_Descriptions
+breit | broad | 40_Descriptions
+eng | tight | 40_Descriptions
+enorm | enormous | 40_Descriptions
+flach | flat | 40_Descriptions
+gemütlich | cosy, cosily | 40_Descriptions
+geräumig | roomy | 40_Descriptions
+hoch | high | 40_Descriptions
+modern | fashionable, modern | 40_Descriptions
+neu | new | 40_Descriptions
+ruhig | quiet, peaceful | 40_Descriptions
+schmal | narrow | 40_Descriptions
+weit | far | 40_Descriptions
+wichtig | important | 40_Descriptions
+zentral | central | 40_Descriptions
+aufwachen | to wake up | 41_Routine
+aufstehen | to get up | 41_Routine
+(sich) waschen | to wash (oneself) | 41_Routine
+(sich) duschen | to shower (oneself) | 41_Routine
+(sich) anziehen | to dress (oneself) | 41_Routine
+die Zähne putzen | to clean your teeth | 41_Routine
+umziehen | to move/change location | 41_Routine
+(sich) entspannen | to relax | 41_Routine
+(sich) ausziehen | to undress (oneself) | 41_Routine
+einschlafen | to go to sleep | 41_Routine
+ausschlafen | to sleep in | 41_Routine
+das Abendessen | dinner | 42_General
+essen | to eat | 42_General
+das Frühstück | breakfast | 42_General
+frühstücken | to have breakfast | 42_General
+die Hausaufgaben | homework (pl) | 42_General
+die Kantine | canteen, dining hall | 42_General
+die Kleidung | clothes | 42_General
+kochen | to cook | 42_General
+das Mittagessen | lunch | 42_General
+der Schultag | school day | 42_General
+trinken | to drink | 42_General
+verlassen | to leave | 42_General
+die Hausarbeit | housework | 43_Chores_at_Home
+im Haushalt helfen | to help with the housework | 43_Chores_at_Home
+abspülen | to wash up | 43_Chores_at_Home
+abtrocknen | to dry (up) | 43_Chores_at_Home
+abwaschen | to wash | 43_Chores_at_Home
+aufräumen | clear up | 43_Chores_at_Home
+das Bett machen | make the bed | 43_Chores_at_Home
+bügeln | to iron | 43_Chores_at_Home
+den Tisch decken | to set the table | 43_Chores_at_Home
+einkaufen | to shop | 43_Chores_at_Home
+im Garten arbeiten | to garden | 43_Chores_at_Home
+mit dem Hund spazieren | to walk the dog | 43_Chores_at_Home
+die Katze füttern | to feed the cat | 43_Chores_at_Home
+kochen | to cook | 43_Chores_at_Home
+putzen | to clean | 43_Chores_at_Home
+staubsaugen | to vacuum | 43_Chores_at_Home
+die Wäsche waschen | to do the washing | 43_Chores_at_Home
+die Achterbahn | roller coaster | 44_Celebrations
+der Baum | tree | 44_Celebrations
+besuchen | to visit | 44_Celebrations
+beten | to pray | 44_Celebrations
+erlauben | to allow | 44_Celebrations
+der Fasching | carnival; Mardi Gras | 44_Celebrations
+fasten | to fast | 44_Celebrations
+feiern | to celebrate | 44_Celebrations
+der Feiertag | public holiday | 44_Celebrations
+das Fest | celebration | 44_Celebrations
+das Feuerwerk | firework | 44_Celebrations
+die Gans | goose | 44_Celebrations
+der Geburtstag | birthday | 44_Celebrations
+das Geschenk | gift | 44_Celebrations
+der Heiligabend | Christmas Eve | 44_Celebrations
+heutzutage | nowadays | 44_Celebrations
+die Hochzeit | wedding | 44_Celebrations
+das Kostüm | suit (for women), costume | 44_Celebrations
+mitmachen | to participate | 44_Celebrations
+das Oktoberfest | Oktoberfest | 44_Celebrations
+das Ostern | Easter | 44_Celebrations
+die Pute | turkey | 44_Celebrations
+der Rhein | the Rhine | 44_Celebrations
+das Riesenrad | ferris wheel | 44_Celebrations
+der Sekt | champagne | 44_Celebrations
+das Silvester | New Year's Eve | 44_Celebrations
+stattfinden | to take place | 44_Celebrations
+suchen | to search | 44_Celebrations
+die Tradition | tradition | 44_Celebrations
+typisch | typical | 44_Celebrations
+der Umzug | move; parade | 44_Celebrations
+verkleidet | dressed-up, disguised | 44_Celebrations
+das Weihnachten | Christmas | 44_Celebrations
+die Abgase | fumes | 45_The_Enviroment
+das Altpapier | used paper | 45_The_Enviroment
+abschalten | to turn off | 45_The_Enviroment
+bauen | to build | 45_The_Enviroment
+benutzen | to use, consult | 45_The_Enviroment
+die Dose | can | 45_The_Enviroment
+eigentlich | actually | 45_The_Enviroment
+die Energie | energy | 45_The_Enviroment
+die Energiesparlampe | economy bulb | 45_The_Enviroment
+das Ergebnis | the result | 45_The_Enviroment
+fallen lassen | to drop | 45_The_Enviroment
+FCKWs | CFCs | 45_The_Enviroment
+die Flasche | bottle | 45_The_Enviroment
+die Gefahr | danger | 45_The_Enviroment
+hassen | to hate | 45_The_Enviroment
+die Hauptverkehrszeit | rush hour | 45_The_Enviroment
+die Heizung | heating | 45_The_Enviroment
+herunterdrehen | to turn down | 45_The_Enviroment
+in letzter Zeit | recently | 45_The_Enviroment
+der Kaugummi | chewing gum | 45_The_Enviroment
+der Lärm | noise | 45_The_Enviroment
+der Lastwagen | the truck | 45_The_Enviroment
+leer | empty | 45_The_Enviroment
+lösen | to remove, solve | 45_The_Enviroment
+die Luft | air | 45_The_Enviroment
+der Müll | refuse, rubbish | 45_The_Enviroment
+der Nachbar | neighbour | 45_The_Enviroment
+die Nachteile | disadvantages | 45_The_Enviroment
+neulich | recently | 45_The_Enviroment
+obdachlos | homeless | 45_The_Enviroment
+öffentlich | public, publicly, in public | 45_The_Enviroment
+öffentliche Verkehrsmittel | public transport | 45_The_Enviroment
+das Plastik | plastic | 45_The_Enviroment
+das Problem | problem | 45_The_Enviroment
+recyceln | to recycle | 45_The_Enviroment
+das Recycling | recycling, recycling container | 45_The_Enviroment
+schützen | to protect | 45_The_Enviroment
+die Solarenergie | Solar energy | 45_The_Enviroment
+sparen | to save (money) | 45_The_Enviroment
+die Spraydose | aerosol (can) | 45_The_Enviroment
+der Stau | accumulation, pile-up; traffic jam | 45_The_Enviroment
+stecken | put, stick | 45_The_Enviroment
+trennen | to separate, to detach | 45_The_Enviroment
+die Tüte | bag | 45_The_Enviroment
+überall | everywhere | 45_The_Enviroment
+überbevölkert | overpopulated | 45_The_Enviroment
+die Umfrage | The survey | 45_The_Enviroment
+die Umwelt | the environment | 45_The_Enviroment
+umweltfeindlich | environmentally unfriendly | 45_The_Enviroment
+umweltfreundlich | eco-friendly | 45_The_Enviroment
+der Umweltschutz | environmental protection | 45_The_Enviroment
+unterstützen | to support | 45_The_Enviroment
+verbessern | to improve | 45_The_Enviroment
+verderben | to spoil | 45_The_Enviroment
+der Verkehr | 1. traffic, 2. contact, intercourse | 45_The_Enviroment
+verschwenden | to waste | 45_The_Enviroment
+die Vorteile | advantages | 45_The_Enviroment
+wegwerfen | to throw away | 45_The_Enviroment
+die Welt | world | 45_The_Enviroment
+ärgern | to annoy | 46_Pollution
+das Atomkraftwerk | nuclear power plant | 46_Pollution
+aussterben | to die out | 46_Pollution
+bald | soon | 46_Pollution
+der Bauer | farmer | 46_Pollution
+bedrohen | to threaten | 46_Pollution
+das Benzin | the gas (petrol) | 46_Pollution
+der Biomüll | compost | 46_Pollution
+bleifrei | unleaded | 46_Pollution
+das Düngemittel | fertilizer | 46_Pollution
+der Gebrauch | use (noun) | 46_Pollution
+genauso | in almost the same manner, just as well | 46_Pollution
+der Hautkrebs | skin cancer | 46_Pollution
+das Insektizid | insecticide | 46_Pollution
+die Kohle | coal | 46_Pollution
+das Kohlendioxid | carbon dioxide | 46_Pollution
+das Kohlenmonoxid | carbon monoxide | 46_Pollution
+der Lärm | noise | 46_Pollution
+die Luft | air | 46_Pollution
+das Naturschutzgebiet | conservation area | 46_Pollution
+das Öl | oil | 46_Pollution
+organisch | organic | 46_Pollution
+das Ozonloch | hole in the ozone layer | 46_Pollution
+die Ozonschicht | ozone layer | 46_Pollution
+das Pestizid | pesticide | 46_Pollution
+das Plakat | poster | 46_Pollution
+die Quelle | source | 46_Pollution
+retten | to save | 46_Pollution
+saurer Regen | acid rain (no article!) | 46_Pollution
+schaden | to damage | 46_Pollution
+schlimm | bad | 46_Pollution
+schuld an etw sein | to be guilty of | 46_Pollution
+sicher | sure | 46_Pollution
+der Sonnenbrand | sunburn | 46_Pollution
+spät | late | 46_Pollution
+der Strahl | beam, ray | 46_Pollution
+das Thema | theme | 46_Pollution
+das Tier | animal | 46_Pollution
+verpesten | to pollute | 46_Pollution
+die Verschmutzung | pollution | 46_Pollution
+verursachen | to cause | 46_Pollution
+verwenden | to use (v...) | 46_Pollution
+wahrscheinlich | probably | 46_Pollution
+der Abfall | rubbish | 47_Global/Local
+der Abfalleimer | trash can | 47_Global/Local
+ändern | to change | 47_Global/Local
+anfangen | to start; to begin; to commence | 47_Global/Local
+die Arbeitslosigkeit | unemployment | 47_Global/Local
+aufstellen | to deploy | 47_Global/Local
+bauen | to build | 47_Global/Local
+der Becher | beaker, tumbler, cup | 47_Global/Local
+beschließen | to conclude | 47_Global/Local
+dafür | 1. for that, 2. in favour of | 47_Global/Local
+dagegen | on the other hand | 47_Global/Local
+draußen | outside | 47_Global/Local
+einführen | to bring in, import | 47_Global/Local
+die Einwegflasche | one-way bottle | 47_Global/Local
+enttäuschend | disappointing | 47_Global/Local
+genug | enough | 47_Global/Local
+hoffen auf | to hope for | 47_Global/Local
+die Idee | idea | 47_Global/Local
+der Kunde | customer | 47_Global/Local
+niemand | no one | 47_Global/Local
+organisieren | to organize | 47_Global/Local
+der Parkplatz | parking area | 47_Global/Local
+pflanzen | to plant | 47_Global/Local
+der Preis | price; prize | 47_Global/Local
+der Radweg | cycle path | 47_Global/Local
+reinigen | to purify | 47_Global/Local
+sorgen für | to look after, take care of | 47_Global/Local
+der Stau | accumulation, pile-up; traffic jam | 47_Global/Local
+umweltbewusst | conscious of the environment | 47_Global/Local
+die Verantwortung | responsibility | 47_Global/Local
+vergessen | to forget | 47_Global/Local
+die Verpackung | packaging | 47_Global/Local
+verschieden | different | 47_Global/Local
+verschwenden | to waste | 47_Global/Local
+werden | to become | 47_Global/Local
+zumachen | to close | 47_Global/Local
+leben | to live (to be alive) | 47_Global/Local
+die AG | a club | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+allerlei | all kinds of, all sorts of | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+das Arbeitspraktikum | Work Experience | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+der Austausch | exchange | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+benutzen | to use, consult | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+das Experiment | experiment | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+das Fach | school subject, division, case | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+ganz | completely | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+die Gesamtschule | comprehensive school | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+gründen | to found | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+die Grundschule | primary school | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+das Gymnasium | grammar school | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+das Internat | Boarding school | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+die Klassenarbeit | test (pl. +en) | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+die Klassenfahrt | educational trip (pl. +en) | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+der Klub | Club | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+der Lehrer (die -in) | teacher | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+lernen | to learn | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+die Mittagspause | Lunch break | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+die Note | the grade | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+die Oberschule | 6th form college | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+die Oberstufe | the 6th form | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+in Ordnung | in order | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+die Pause | pause | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+das Pflichtfach | compulsory subject | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+plaudern | to chat | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+die Realschule | high school | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+schon | already | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+schreiben | to write | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+der Schuldirektor | headmaster | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+die Schule | school | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+der Schüler (die -in) | pupil/student (m/f) | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+der Schulhof | playground | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+die Schulordnung | school rules | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+das Semester | semester | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+die Stunde | hour | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+der Stundenplan | schedule | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+der Unterricht | lesson | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+verbieten | to forbid | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+die Versammlung | meeting, congregation, assembly | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+das Wahlfach | optional subject | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+wählen | to choose | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+die Zukunft | future | 48_WORK_AND_EDUCATION:_School_and_Future_plans_-_Gene
+die Anmeldung | booking | 49_School_Features
+die Aula | school hall | 49_School_Features
+die Bibliothek | library | 49_School_Features
+der Chor | choir | 49_School_Features
+der Direktor | Headteacher | 49_School_Features
+die Direktorin | Headmistress | 49_School_Features
+das Gebäude | building | 49_School_Features
+der Hausmeister | caretaker | 49_School_Features
+die Kantine | canteen, dining hall | 49_School_Features
+das Klassenzimmer | classroom | 49_School_Features
+das Labor | science lab | 49_School_Features
+das Lehrerzimmer | staff room | 49_School_Features
+das Orchester | orchestra | 49_School_Features
+der Schulhof | playground | 49_School_Features
+das Sekretariat | school office, reception | 49_School_Features
+die Speise | meal | 49_School_Features
+die Sporthalle | sports arena | 49_School_Features
+das Sprachlabor | language laboratory | 49_School_Features
+die Tafel | board | 49_School_Features
+die Turnhalle | gym | 49_School_Features
+der Umkleideraum | changing room | 49_School_Features
+Biologie | Biology | 50_School_Subjects
+Chemie | Chemistry | 50_School_Subjects
+Deutsch | German | 50_School_Subjects
+Englisch | English | 50_School_Subjects
+Erdkunde | Geography | 50_School_Subjects
+Französisch | French | 50_School_Subjects
+Fremdsprachen | foreign languages | 50_School_Subjects
+Geschichte | history, story | 50_School_Subjects
+Informatik | IT | 50_School_Subjects
+kochen | to cook | 50_School_Subjects
+Kunst | art | 50_School_Subjects
+Mathe(matik) | Maths | 50_School_Subjects
+Naturwissenschaften | science | 50_School_Subjects
+Physik | Physics | 50_School_Subjects
+Religion | religion, Religious Studies | 50_School_Subjects
+Sozialkunde | sociology | 50_School_Subjects
+Spanisch | spanish | 50_School_Subjects
+Sport | physical education | 50_School_Subjects
+werken | to work (w) | 50_School_Subjects
+der Bleistift | pencil | 51_School_Equipment
+das Buch | book | 51_School_Equipment
+das Etui | case | 51_School_Equipment
+der Füller | fountain pen | 51_School_Equipment
+das Heft | notebook | 51_School_Equipment
+der Kuli | ball-pen, Biro | 51_School_Equipment
+das Lineal | the ruler | 51_School_Equipment
+das Papier | paper | 51_School_Equipment
+der Gummi | rubber | 51_School_Equipment
+der Taschenrechner | the calculator | 51_School_Equipment
+das Wörterbuch | dictionary | 51_School_Equipment
+der Zirkel | Compass | 51_School_Equipment
+das Abitur | A-Levels, school leaving exam | 52_Future
+der Abiturient | person who has passed the Abitur | 52_Future
+der Abschluss | final exam | 52_Future
+das Abschlusszeugnis | leaving certificate | 52_Future
+abwesend | absent | 52_Future
+auf etw ankommen | to depend on sth | 52_Future
+die Auswahl | choice | 52_Future
+beruflich | professional | 52_Future
+brauchen | to need | 52_Future
+deswegen | because of this | 52_Future
+die Fachhochschule | Vocational College | 52_Future
+gut bezahlt | well paid | 52_Future
+das Heimweh | homesickness | 52_Future
+im Durchschnitt | on average | 52_Future
+Jura | law | 52_Future
+klug | clever | 52_Future
+der Leistungsdruck | pressure to achieve | 52_Future
+meinen | to think/believe | 52_Future
+die Möglichkeit | possibility | 52_Future
+nachsitzen | to have detention | 52_Future
+nagelneu | brand new | 52_Future
+nervös | nervous | 52_Future
+der Notendruck | exam pressure | 52_Future
+peinlich | embarrassing | 52_Future
+der Profi | pro (professional) | 52_Future
+die Prüfung | exam | 52_Future
+anbieten | to offer | 53_Jobs
+anfügen | to enclose | 53_Jobs
+die Arbeitskraft | manpower | 53_Jobs
+beiliegend | enclosed | 53_Jobs
+beruflich | professional | 53_Jobs
+sich bewerben | to apply | 53_Jobs
+die Bewerbung | application (for) | 53_Jobs
+die Erfahrung | (noun) experience | 53_Jobs
+im Freien | in the open air | 53_Jobs
+der Lebenslauf | curriculum vitae, CV | 53_Jobs
+der Lohn | wage | 53_Jobs
+die Teilzeit | part-time | 53_Jobs
+die Schichtarbeit | shift-work | 53_Jobs
+die Unterlage | document | 53_Jobs
